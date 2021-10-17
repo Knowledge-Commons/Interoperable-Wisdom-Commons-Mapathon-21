@@ -44,4 +44,4 @@ The Formal Bridge- Sharing data
 
 Cultural Evolutionary Mutations happening now in our social DNA! Life knows the Way.
 
-![[#SoulSpark ToolKit.png]]
+![[SoulSpark ToolKit.png]]
