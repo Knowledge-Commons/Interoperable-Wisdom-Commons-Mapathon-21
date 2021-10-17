@@ -56,7 +56,7 @@ Contribution and Attribution- Who is contributing? What is identity? TRUST- how 
 
 To preserve diversity and flexibility, need to choose the right "container" for knowledge/wisdom - graph databases > relational databases, allowing for branching and version control seem helpful too
 
-Repository Asset Types
+[[Repository Asset Types]]
 
 messy, human-friendly replication (not necessarily perfect duplication) and adaptation to individuals and communities -- think gossip, lore, legends, parables, heros, vililans, gods, people
 

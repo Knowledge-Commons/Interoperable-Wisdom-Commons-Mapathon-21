@@ -44,15 +44,15 @@ Asks, offers, resources, projects, events, discussions
 
 interconnectedness and interdependance
 
-Via our web clientVia APIIoTAs text, #, unit of measure, video, image, workflowWith audit trail of transactionsThrough searchable, taggable threaded discussionsTagged w/ time, place, author, area of impact, area of knowledge/skill
+Via our web client Via API IoT As text, #, unit of measure, video, image, workflow With audit trail of transactions Through searchable, taggable threaded discussions Tagged w/ time, place, author, area of impact, area of knowledge/skill
 
-Massive Wiki, which uses Markdown files with [[wiki links]], and sharing/versioning (usually with Git).
+Massive Wiki, which uses Markdown files with `[[wiki links]]`, and sharing/versioning (usually with Git).
 
-Project based worknested discussions with rich mediawall posts and cross posts (taggable, @-able)raw task data, community sources science, summary calculations, rollupsiOt measurement devices, open-sources (potentially) and disturbed to automate and standardize measurement in accessible / inconvenient locations
+Project based work nested discussions with rich mediawall posts and cross posts (taggable, @-able)raw task data, community sources science, summary calculations, rollups iOt measurement devices, open-sources (potentially) and disturbed to automate and standardize measurement in accessible / inconvenient locations
 
 Working within the Sensorica commons (sharing encouraged!) My community (GoodLabs) collects information on social production entities, actions, and resources
 
-Open Future Coalition (Jamaica Stevens, Kaitlin Archambault, Gary Glass, Arjun Ray)   arjun@openfuturecoalition.org   live data from auditable impact projectsmeasurable resultsgroup and project based knowledgeiterable, speciated but ever optimizing SOPs and related conversationsdynamic tagged knowledge in a wiki+ or other novel format
+Open Future Coalition (Jamaica Stevens, Kaitlin Archambault, Gary Glass, Arjun Ray)   <arjun@openfuturecoalition.org>   live data from auditable impact projects measurable results group and project based knowledge iterable, speciated but ever optimizing SOPs and related conversations dynamic tagged knowledge in a wiki+ or other novel format
 
 Circling, Markdown Files, Wisdom Pods, IPFS,
 
@@ -62,13 +62,13 @@ Gathering in a number of ways - crowdsourcing, Diigo web annotation tool, and ag
 
 geotagged data for place based mapping and coordination
 
-Vincent arena from Trove catalist.network/profile/vincentarena
+Vincent arena from Trove <https://catalist.network/profile/vincentarena>
 
 Helping people make the world better for all living beings, by connecting people, information, knowledge, wisdom through replication and federation
 
 events, projects, resources, groups, orgs, links, people, projects
 
-Linked Open Wisdom Commons Benjamin Life synergy@benjaminlife.one @thebeautyway (Telegram)
+Linked Open Wisdom Commons Benjamin Life <synergy@benjaminlife.one> @thebeautyway (Telegram)
 
 Massive Wiki is a tool for collecting many kinds of information, private, shared, public, commons.  We are experimenting with many kinds of information, some in the commons, some private.
 
