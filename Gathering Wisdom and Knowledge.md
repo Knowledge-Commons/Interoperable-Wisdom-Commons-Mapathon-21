@@ -1,6 +1,6 @@
 # Gathering Wisdom and Knowledge
 
-**[ed. note: The "Who, How, What" fields were not generally exported together from Miro, so this page is currently a jumble. See the [original Miro board](https://miro.com/app/board/o9J_lqaPCGw=/) to see the original context of the individual items.]**
+**[ed. note: The "Who, How, What" fields were not exported together from Miro, so this page is currently a jumble. See the [original Miro board](https://miro.com/app/board/o9J_lqaPCGw=/) to see the original context of the individual items.]**
 
 _Who is Gathering? Why are you Gathering? Contact Info_
 
