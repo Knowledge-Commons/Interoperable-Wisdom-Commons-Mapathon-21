@@ -30,7 +30,7 @@ From the book Sand Talk: How Indigenous Thinking Can Save the World: the aborigi
 
 knowledge embedded in ecology
 
-Btw - I got ‘Consent is the opposite of Colonialism’ from Fatima Mann, wanted to give her credit for her awesome work: https://www.fatimabarefootjd.com/
+Btw - I got ‘Consent is the opposite of Colonialism’ from Fatima Mann, wanted to give her credit for her awesome work: <https://www.fatimabarefootjd.com/>
 
 Storytelling- bringing stories into digital spaces and keeping them in place
 

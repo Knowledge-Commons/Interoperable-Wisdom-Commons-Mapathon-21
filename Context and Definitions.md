@@ -4,7 +4,7 @@ _What do we mean by Knowledge? By Wisdom? What do we mean by Wisdom Commons? Dyn
 
 CHARLES: Fundamental to these repository efforts in any org., group or initiative is values-based community collaboration between members and various participants, collectively activating, pollinating and cultivating wisdom gardens through a range of interactions from communicating to choreographing within complex systems integrating myriad elements, dimensions and factors. Wisdom is contrasted with knowledge and intelligence in that broad benefit to the whole community or system — the biggest picture context — is considered, assessed and emphasized over the long term (e.g., seven generations or more).
 
-John Vervaeke on the definition of Wisdom: https://youtu.be/WpVVcVRkLok
+John Vervaeke on the definition of Wisdom: <https://youtu.be/WpVVcVRkLok>
 
 An adjacent concept I've found helpful is praxis, which I understand as knowledge / wisdom as expressed in practice. Having a high degree of shared praxis seems to be an important condition of collective intelligence / collective action.
 
