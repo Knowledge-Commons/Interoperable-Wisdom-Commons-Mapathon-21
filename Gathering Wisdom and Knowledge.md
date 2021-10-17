@@ -1,12 +1,12 @@
 # Gathering Wisdom and Knowledge
 
+**[ed. note: The "Who, How, What" fields were not generally exported together from Miro, so this page is currently a jumble. See the [original Miro board](https://miro.com/app/board/o9J_lqaPCGw=/) to see the original context of the individual items.]**
+
 _Who is Gathering? Why are you Gathering? Contact Info_
 
 _How are you Gathering information? Format, Process, etc. SHARE LINKS!_
 
 _What kind of information are you  Gathering? What are your sharing parameters?_
-
-[ed. note: The "Who, How, What" fields were not generally exported together from Miro, so this page is currently a jumble. See the [original Miro board](https://miro.com/app/board/o9J_lqaPCGw=/) to recontextualize the individual items.]
 
 Kaitlin Archambault <kaiti@openfuturecoalition.org>   Working to empower the distributed, iterative forward learning of local solutions on a global scale—which will require interoperability & the advancement of / discoverability within existing ontologies
 
