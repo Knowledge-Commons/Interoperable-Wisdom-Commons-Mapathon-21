@@ -2,6 +2,8 @@
 
 ## (Minimum Viable Ontology)
 
+_Attribution: Repository Asset Types Map by Charles Blass._
+
 ![[Repository Asset Types.jpg]]
 
 REPO ASSET TYPES
